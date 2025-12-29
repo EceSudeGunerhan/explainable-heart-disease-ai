@@ -15,3 +15,28 @@ Thumbs.db
 # Logs & temp
 *.log
 *.tmp
+
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.env
+
+# Model dosyaları (büyük dosyalar)
+model.pkl
+*.joblib
+*.pkl
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
